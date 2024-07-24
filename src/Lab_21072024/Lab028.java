@@ -1,6 +1,6 @@
 package Lab_21072024;
 
-public class Lab28 {
+public class Lab028 {
     public static void main(String[] args) {
         int i = 0 ;
         while (i<=5){
