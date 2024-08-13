@@ -1,4 +1,4 @@
-package ex_10082024.polymorphism;
+package ex_10082024.polymorphism.methodOverloading;
 
 public class MathOperation {
 
