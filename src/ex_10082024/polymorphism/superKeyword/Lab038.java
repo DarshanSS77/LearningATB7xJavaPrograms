@@ -13,10 +13,11 @@ public class Lab038 {
 class Car extends Vehicle {
     private int maxSpeed = 240;
 
-    Car(){
+    Car() {
         super();
         System.out.println("DC of Car");
     }
+
     void display() {
 //        System.out.println("Car speed is ->" + this.maxSpeed);
         System.out.println("Vehicle speed is -> " + this.maxSpeed);
@@ -34,9 +35,10 @@ class Car extends Vehicle {
 class Vehicle {
     public int maxSpeed = 120;
 
-    Vehicle(){
+    Vehicle() {
         System.out.println("DC of vehicle");
     }
+
     void message() {
         System.out.println("Vehicle class");
     }

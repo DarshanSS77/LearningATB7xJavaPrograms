@@ -36,7 +36,7 @@ class Student1 extends Person1 {
     }
 
     Student1(int a) {
-//        super();
+        super();
 //        this();
 
     }
